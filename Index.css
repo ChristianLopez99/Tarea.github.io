@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: #4300df;
+    font-size: 2em;
+    font-family: Georgia, 'Arial', Times, serif;
+    border-bottom: 10px solid red;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #4300df;
+}
+h4 {
+    font-size: 0.9em;
+    color: #4300df;
+}
+h3 {
+    font-size: 1.5em;
+    color: #4300df;
+}
+p {
+    padding: 3px 10px;
+    border: red 5px solid;
+    border-radius: 20px;
+    font-size: 0.90em;
+    color: #4300df;
+}
+
+.job-title {
+    font-size: 1em;
+    color: #1f00cc;
+    font-weight: bold;
+    border-top: red 5px double;
+    border-right: red 5px double;
+    border-bottom: red 5px double;
+    border-left: red 5px double;
+}
+
+a:link, a:visited {
+    color: #f50000;
+}
+
+a:hover {
+    text-decoration: none;
+}
+ul {
+    color: #1f00cc;
+    font-weight: bolder;
+    border-top: red 5px dotted;
+    border-right: red 5px dotted;
+    border-bottom: red 5px dotted;
+    border-left: red 5px dotted;
+}
